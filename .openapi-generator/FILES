@@ -74,10 +74,10 @@ docs/Get2ComplianceJobsResponse.md
 docs/Get2ComplianceJobsResponseMeta.md
 docs/Get2CustomTimelinesIdResponse.md
 docs/Get2DmConversationsIdDmEventsResponse.md
-docs/Get2DmConversationsIdDmEventsResponseMeta.md
 docs/Get2DmConversationsWithParticipantIdDmEventsResponse.md
 docs/Get2DmEventsResponse.md
 docs/Get2ListsIdFollowersResponse.md
+docs/Get2ListsIdFollowersResponseMeta.md
 docs/Get2ListsIdMembersResponse.md
 docs/Get2ListsIdResponse.md
 docs/Get2ListsIdTweetsResponse.md
@@ -382,10 +382,10 @@ src/main/java/org/openapitools/client/model/Get2ComplianceJobsResponse.java
 src/main/java/org/openapitools/client/model/Get2ComplianceJobsResponseMeta.java
 src/main/java/org/openapitools/client/model/Get2CustomTimelinesIdResponse.java
 src/main/java/org/openapitools/client/model/Get2DmConversationsIdDmEventsResponse.java
-src/main/java/org/openapitools/client/model/Get2DmConversationsIdDmEventsResponseMeta.java
 src/main/java/org/openapitools/client/model/Get2DmConversationsWithParticipantIdDmEventsResponse.java
 src/main/java/org/openapitools/client/model/Get2DmEventsResponse.java
 src/main/java/org/openapitools/client/model/Get2ListsIdFollowersResponse.java
+src/main/java/org/openapitools/client/model/Get2ListsIdFollowersResponseMeta.java
 src/main/java/org/openapitools/client/model/Get2ListsIdMembersResponse.java
 src/main/java/org/openapitools/client/model/Get2ListsIdResponse.java
 src/main/java/org/openapitools/client/model/Get2ListsIdTweetsResponse.java
@@ -582,3 +582,4 @@ src/main/java/org/openapitools/client/model/VideoAllOfNonPublicMetrics.java
 src/main/java/org/openapitools/client/model/VideoAllOfOrganicMetrics.java
 src/main/java/org/openapitools/client/model/VideoAllOfPromotedMetrics.java
 src/main/java/org/openapitools/client/model/VideoAllOfPublicMetrics.java
+src/test/java/org/openapitools/client/model/Get2ListsIdFollowersResponseMetaTest.java

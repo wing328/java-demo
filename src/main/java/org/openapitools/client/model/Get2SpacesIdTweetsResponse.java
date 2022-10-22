@@ -26,7 +26,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import org.openapitools.client.model.Expansions;
-import org.openapitools.client.model.Get2DmConversationsIdDmEventsResponseMeta;
+import org.openapitools.client.model.Get2ListsIdFollowersResponseMeta;
 import org.openapitools.client.model.Problem;
 import org.openapitools.client.model.Tweet;
 
@@ -70,7 +70,7 @@ public class Get2SpacesIdTweetsResponse {
 
   public static final String SERIALIZED_NAME_META = "meta";
   @SerializedName(SERIALIZED_NAME_META)
-  private Get2DmConversationsIdDmEventsResponseMeta meta;
+  private Get2ListsIdFollowersResponseMeta meta;
 
   public Get2SpacesIdTweetsResponse() {
   }
@@ -160,7 +160,7 @@ public class Get2SpacesIdTweetsResponse {
   }
 
 
-  public Get2SpacesIdTweetsResponse meta(Get2DmConversationsIdDmEventsResponseMeta meta) {
+  public Get2SpacesIdTweetsResponse meta(Get2ListsIdFollowersResponseMeta meta) {
     
     this.meta = meta;
     return this;
@@ -173,12 +173,12 @@ public class Get2SpacesIdTweetsResponse {
   @javax.annotation.Nullable
   @ApiModelProperty(value = "")
 
-  public Get2DmConversationsIdDmEventsResponseMeta getMeta() {
+  public Get2ListsIdFollowersResponseMeta getMeta() {
     return meta;
   }
 
 
-  public void setMeta(Get2DmConversationsIdDmEventsResponseMeta meta) {
+  public void setMeta(Get2ListsIdFollowersResponseMeta meta) {
     this.meta = meta;
   }
 
@@ -297,7 +297,7 @@ public class Get2SpacesIdTweetsResponse {
       }
       // validate the optional field `meta`
       if (jsonObj.get("meta") != null && !jsonObj.get("meta").isJsonNull()) {
-        Get2DmConversationsIdDmEventsResponseMeta.validateJsonObject(jsonObj.getAsJsonObject("meta"));
+        Get2ListsIdFollowersResponseMeta.validateJsonObject(jsonObj.getAsJsonObject("meta"));
       }
   }
 
