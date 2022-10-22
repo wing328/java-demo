@@ -13757,7 +13757,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2DmConversationsWithParticipantIdDmEventsResponse:
       example:
@@ -13956,7 +13956,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2DmEventsResponse:
       example:
@@ -14155,7 +14155,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2ListsIdFollowersResponse:
       example:
@@ -14316,7 +14316,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2ListsIdMembersResponse:
       example:
@@ -14477,7 +14477,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2ListsIdResponse:
       example:
@@ -14788,7 +14788,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2SpacesByCreatorIdsResponse:
       example:
@@ -15156,7 +15156,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2SpacesIdResponse:
       example:
@@ -15488,7 +15488,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2SpacesResponse:
       example:
@@ -16145,7 +16145,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2TweetsIdQuoteTweetsResponse:
       example:
@@ -16613,7 +16613,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2TweetsResponse:
       example:
@@ -17726,7 +17726,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2UsersIdBookmarksResponse:
       example:
@@ -17887,7 +17887,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2UsersIdFollowedListsResponse:
       example:
@@ -18054,7 +18054,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2UsersIdFollowersResponse:
       example:
@@ -18215,7 +18215,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2UsersIdFollowingResponse:
       example:
@@ -18376,7 +18376,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2UsersIdLikedTweetsResponse:
       example:
@@ -18537,7 +18537,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2UsersIdListMembershipsResponse:
       example:
@@ -18704,7 +18704,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2UsersIdMentionsResponse:
       example:
@@ -19028,7 +19028,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2UsersIdOwnedListsResponse:
       example:
@@ -19195,7 +19195,7 @@ components:
         includes:
           $ref: '#/components/schemas/Expansions'
         meta:
-          $ref: '#/components/schemas/Get2DmConversationsIdDmEventsResponse_meta'
+          $ref: '#/components/schemas/Get2ListsIdFollowersResponseMeta'
       type: object
     Get2UsersIdPinnedListsResponse:
       example:
@@ -22651,7 +22651,7 @@ components:
           format: int32
           type: integer
       type: object
-    Get2DmConversationsIdDmEventsResponse_meta:
+    Get2ListsIdFollowersResponseMeta:
       example:
         previous_token: previous_token
         next_token: next_token
