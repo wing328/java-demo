@@ -74,7 +74,6 @@ docs/Get2ComplianceJobsResponse.md
 docs/Get2ComplianceJobsResponseMeta.md
 docs/Get2CustomTimelinesIdResponse.md
 docs/Get2DmConversationsIdDmEventsResponse.md
-docs/Get2DmConversationsIdDmEventsResponseMeta.md
 docs/Get2DmConversationsWithParticipantIdDmEventsResponse.md
 docs/Get2DmEventsResponse.md
 docs/Get2ListsIdFollowersResponse.md
@@ -150,6 +149,7 @@ docs/ListsApi.md
 docs/Media.md
 docs/MentionEntity.md
 docs/MentionFields.md
+docs/Meta.md
 docs/ModelList.md
 docs/MuteUserMutationResponse.md
 docs/MuteUserMutationResponseData.md
@@ -382,7 +382,6 @@ src/main/java/org/openapitools/client/model/Get2ComplianceJobsResponse.java
 src/main/java/org/openapitools/client/model/Get2ComplianceJobsResponseMeta.java
 src/main/java/org/openapitools/client/model/Get2CustomTimelinesIdResponse.java
 src/main/java/org/openapitools/client/model/Get2DmConversationsIdDmEventsResponse.java
-src/main/java/org/openapitools/client/model/Get2DmConversationsIdDmEventsResponseMeta.java
 src/main/java/org/openapitools/client/model/Get2DmConversationsWithParticipantIdDmEventsResponse.java
 src/main/java/org/openapitools/client/model/Get2DmEventsResponse.java
 src/main/java/org/openapitools/client/model/Get2ListsIdFollowersResponse.java
@@ -457,6 +456,7 @@ src/main/java/org/openapitools/client/model/ListUpdateResponseData.java
 src/main/java/org/openapitools/client/model/Media.java
 src/main/java/org/openapitools/client/model/MentionEntity.java
 src/main/java/org/openapitools/client/model/MentionFields.java
+src/main/java/org/openapitools/client/model/Meta.java
 src/main/java/org/openapitools/client/model/ModelList.java
 src/main/java/org/openapitools/client/model/MuteUserMutationResponse.java
 src/main/java/org/openapitools/client/model/MuteUserMutationResponseData.java
@@ -582,3 +582,4 @@ src/main/java/org/openapitools/client/model/VideoAllOfNonPublicMetrics.java
 src/main/java/org/openapitools/client/model/VideoAllOfOrganicMetrics.java
 src/main/java/org/openapitools/client/model/VideoAllOfPromotedMetrics.java
 src/main/java/org/openapitools/client/model/VideoAllOfPublicMetrics.java
+src/test/java/org/openapitools/client/model/MetaTest.java
