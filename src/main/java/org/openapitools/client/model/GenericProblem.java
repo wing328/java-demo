@@ -68,7 +68,7 @@ import org.openapitools.client.JSON;
  * A generic problem with no additional information beyond that provided by the HTTP status code.
  */
 @ApiModel(description = "A generic problem with no additional information beyond that provided by the HTTP status code.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class GenericProblem extends Problem {
   public GenericProblem() {
     this.type = this.getClass().getSimpleName();

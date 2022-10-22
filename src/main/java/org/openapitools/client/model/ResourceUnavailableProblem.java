@@ -68,7 +68,7 @@ import org.openapitools.client.JSON;
  * A problem that indicates a particular Tweet, User, etc. is not available to you.
  */
 @ApiModel(description = "A problem that indicates a particular Tweet, User, etc. is not available to you.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class ResourceUnavailableProblem extends Problem {
   public static final String SERIALIZED_NAME_PARAMETER = "parameter";
   @SerializedName(SERIALIZED_NAME_PARAMETER)

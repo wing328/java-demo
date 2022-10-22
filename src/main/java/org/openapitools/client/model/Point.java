@@ -52,7 +52,7 @@ import org.openapitools.client.JSON;
  * A [GeoJson Point](https://tools.ietf.org/html/rfc7946#section-3.1.2) geometry object.
  */
 @ApiModel(description = "A [GeoJson Point](https://tools.ietf.org/html/rfc7946#section-3.1.2) geometry object.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class Point {
   public static final String SERIALIZED_NAME_COORDINATES = "coordinates";
   @SerializedName(SERIALIZED_NAME_COORDINATES)

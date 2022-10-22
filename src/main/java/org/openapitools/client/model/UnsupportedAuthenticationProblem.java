@@ -68,7 +68,7 @@ import org.openapitools.client.JSON;
  * A problem that indicates that the authentication used is not supported.
  */
 @ApiModel(description = "A problem that indicates that the authentication used is not supported.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class UnsupportedAuthenticationProblem extends Problem {
   public UnsupportedAuthenticationProblem() {
     this.type = this.getClass().getSimpleName();

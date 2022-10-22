@@ -52,7 +52,7 @@ import org.openapitools.client.JSON;
  * Expanded details for the URL specified in the User&#39;s profile, with start and end indices.
  */
 @ApiModel(description = "Expanded details for the URL specified in the User's profile, with start and end indices.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class UserEntitiesUrl {
   public static final String SERIALIZED_NAME_URLS = "urls";
   @SerializedName(SERIALIZED_NAME_URLS)

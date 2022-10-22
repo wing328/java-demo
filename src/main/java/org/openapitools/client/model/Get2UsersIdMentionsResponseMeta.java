@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Get2UsersIdMentionsResponseMeta
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class Get2UsersIdMentionsResponseMeta {
   public static final String SERIALIZED_NAME_NEWEST_ID = "newest_id";
   @SerializedName(SERIALIZED_NAME_NEWEST_ID)

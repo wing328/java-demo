@@ -53,7 +53,7 @@ import org.openapitools.client.JSON;
  * Represent a Poll attached to a Tweet.
  */
 @ApiModel(description = "Represent a Poll attached to a Tweet.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class Poll {
   public static final String SERIALIZED_NAME_DURATION_MINUTES = "duration_minutes";
   @SerializedName(SERIALIZED_NAME_DURATION_MINUTES)

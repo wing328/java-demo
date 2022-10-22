@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * MuteUserRequest
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class MuteUserRequest {
   public static final String SERIALIZED_NAME_TARGET_USER_ID = "target_user_id";
   @SerializedName(SERIALIZED_NAME_TARGET_USER_ID)

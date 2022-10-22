@@ -52,7 +52,7 @@ import org.openapitools.client.JSON;
 /**
  * TweetTakedownComplianceSchema
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class TweetTakedownComplianceSchema {
   public static final String SERIALIZED_NAME_EVENT_AT = "event_at";
   @SerializedName(SERIALIZED_NAME_EVENT_AT)

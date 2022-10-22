@@ -49,7 +49,7 @@ import org.openapitools.client.JSON;
  * Organic nonpublic engagement metrics for the Tweet at the time of the request.
  */
 @ApiModel(description = "Organic nonpublic engagement metrics for the Tweet at the time of the request.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class TweetOrganicMetrics {
   public static final String SERIALIZED_NAME_IMPRESSION_COUNT = "impression_count";
   @SerializedName(SERIALIZED_NAME_IMPRESSION_COUNT)

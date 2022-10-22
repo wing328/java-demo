@@ -68,7 +68,7 @@ import org.openapitools.client.JSON;
  * You have been disconnected for operational reasons.
  */
 @ApiModel(description = "You have been disconnected for operational reasons.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class OperationalDisconnectProblem extends Problem {
   /**
    * Gets or Sets disconnectType

@@ -51,7 +51,7 @@ import org.openapitools.client.JSON;
  * Tweet information of the Tweet being replied to.
  */
 @ApiModel(description = "Tweet information of the Tweet being replied to.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class TweetCreateRequestReply {
   public static final String SERIALIZED_NAME_EXCLUDE_REPLY_USER_IDS = "exclude_reply_user_ids";
   @SerializedName(SERIALIZED_NAME_EXCLUDE_REPLY_USER_IDS)

@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * CreateDmEventResponseData
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class CreateDmEventResponseData {
   public static final String SERIALIZED_NAME_DM_CONVERSATION_ID = "dm_conversation_id";
   @SerializedName(SERIALIZED_NAME_DM_CONVERSATION_ID)

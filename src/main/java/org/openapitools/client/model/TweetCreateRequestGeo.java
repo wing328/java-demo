@@ -49,7 +49,7 @@ import org.openapitools.client.JSON;
  * Place ID being attached to the Tweet for geo location.
  */
 @ApiModel(description = "Place ID being attached to the Tweet for geo location.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class TweetCreateRequestGeo {
   public static final String SERIALIZED_NAME_PLACE_ID = "place_id";
   @SerializedName(SERIALIZED_NAME_PLACE_ID)

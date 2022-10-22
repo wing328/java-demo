@@ -49,7 +49,7 @@ import org.openapitools.client.JSON;
  * A list of metrics for this User.
  */
 @ApiModel(description = "A list of metrics for this User.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class UserPublicMetrics {
   public static final String SERIALIZED_NAME_FOLLOWERS_COUNT = "followers_count";
   @SerializedName(SERIALIZED_NAME_FOLLOWERS_COUNT)

@@ -49,7 +49,7 @@ import org.openapitools.client.JSON;
  * Engagement metrics for the Tweet at the time of the request.
  */
 @ApiModel(description = "Engagement metrics for the Tweet at the time of the request.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class TweetPublicMetrics {
   public static final String SERIALIZED_NAME_LIKE_COUNT = "like_count";
   @SerializedName(SERIALIZED_NAME_LIKE_COUNT)

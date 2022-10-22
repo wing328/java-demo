@@ -2,7 +2,6 @@
 
 Twitter API v2
 - API version: latest
-  - Build date: 2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]
 
 Twitter API v2 available endpoints
 

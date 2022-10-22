@@ -68,7 +68,7 @@ import org.openapitools.client.JSON;
  * A problem that indicates that you are not allowed to see a particular field on a Tweet, User, etc.
  */
 @ApiModel(description = "A problem that indicates that you are not allowed to see a particular field on a Tweet, User, etc.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class FieldUnauthorizedProblem extends Problem {
   public static final String SERIALIZED_NAME_FIELD = "field";
   @SerializedName(SERIALIZED_NAME_FIELD)

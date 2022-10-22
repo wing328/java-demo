@@ -63,7 +63,7 @@ import com.google.gson.JsonParseException;
 
 import org.openapitools.client.JSON;
 
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class UserComplianceStreamResponse extends AbstractOpenApiSchema {
     private static final Logger log = Logger.getLogger(UserComplianceStreamResponse.class.getName());
 

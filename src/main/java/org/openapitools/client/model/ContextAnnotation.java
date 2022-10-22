@@ -51,7 +51,7 @@ import org.openapitools.client.JSON;
  * Annotation inferred from the Tweet text.
  */
 @ApiModel(description = "Annotation inferred from the Tweet text.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class ContextAnnotation {
   public static final String SERIALIZED_NAME_DOMAIN = "domain";
   @SerializedName(SERIALIZED_NAME_DOMAIN)

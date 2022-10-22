@@ -68,7 +68,7 @@ import org.openapitools.client.JSON;
  * The rule you have submitted is invalid.
  */
 @ApiModel(description = "The rule you have submitted is invalid.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class InvalidRuleProblem extends Problem {
   public InvalidRuleProblem() {
     this.type = this.getClass().getSimpleName();

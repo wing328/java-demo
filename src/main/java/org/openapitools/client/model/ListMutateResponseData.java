@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * ListMutateResponseData
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class ListMutateResponseData {
   public static final String SERIALIZED_NAME_IS_MEMBER = "is_member";
   @SerializedName(SERIALIZED_NAME_IS_MEMBER)

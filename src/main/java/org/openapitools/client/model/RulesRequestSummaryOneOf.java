@@ -49,7 +49,7 @@ import org.openapitools.client.JSON;
  * A summary of the results of the addition of user-specified stream filtering rules.
  */
 @ApiModel(description = "A summary of the results of the addition of user-specified stream filtering rules.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class RulesRequestSummaryOneOf {
   public static final String SERIALIZED_NAME_CREATED = "created";
   @SerializedName(SERIALIZED_NAME_CREATED)

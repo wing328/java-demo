@@ -49,7 +49,7 @@ import org.openapitools.client.JSON;
  * A request to create a new batch compliance job.
  */
 @ApiModel(description = "A request to create a new batch compliance job.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class CreateComplianceJobRequest {
   public static final String SERIALIZED_NAME_NAME = "name";
   @SerializedName(SERIALIZED_NAME_NAME)

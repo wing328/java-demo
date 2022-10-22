@@ -68,7 +68,7 @@ import org.openapitools.client.JSON;
  * Your client has gone away.
  */
 @ApiModel(description = "Your client has gone away.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class ClientDisconnectedProblem extends Problem {
   public ClientDisconnectedProblem() {
     this.type = this.getClass().getSimpleName();

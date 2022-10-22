@@ -51,7 +51,7 @@ import org.openapitools.client.JSON;
  * IDs and values of all deleted user-specified stream filtering rules.
  */
 @ApiModel(description = "IDs and values of all deleted user-specified stream filtering rules.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-22T18:08:52.595492+08:00[Asia/Hong_Kong]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen")
 public class DeleteRulesRequestDelete {
   public static final String SERIALIZED_NAME_IDS = "ids";
   @SerializedName(SERIALIZED_NAME_IDS)
